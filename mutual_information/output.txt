@@ -1,0 +1,27 @@
+
+The top 5 positive words:
+P1:  astounding
+P2:  offbeat
+P3:  outstanding
+P4:  avoids
+P5:  fascination
+The top 5 negative words:
+N1:  idiotic
+N2:  insulting
+N3:  ludicrous
+N4:  atrocious
+N5:  illogical
+
+
+The top 5 positive words:
+P1:  astounding
+P2:  avoids
+P3:  outstanding
+P4:  understands
+P5:  symbol
+The top 5 negative words:
+N1:  sucks
+N2:  atrocious
+N3:  ludicrous
+N4:  incoherent
+N5:  idiotic
