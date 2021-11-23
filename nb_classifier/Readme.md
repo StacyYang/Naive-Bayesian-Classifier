@@ -29,7 +29,7 @@ Takes pos_train.csv and neg_train.csv, then collect info. needed. positive revie
 2. Loads the Bayesian classifier stored in the file,
 3. Processes each of the movie reviews and convert them into a form which can be classified using the classifier, AND
 4. Uses the classifier loaded to classify each of the movie reviews as positive or negative, and output the results in a .csv file, with each line showing the name of the file containing the movie review, followed by a comma, followed by either "1" or "0" (meaning pos and neg, respectively). <br>
-5.Your .csv file should contain results like this:<br>
+Your .csv file should contain results like this:<br>
 aa101.txt,0<br>
 aa102.txt,1<br>
 aa103.txt,1<br>
