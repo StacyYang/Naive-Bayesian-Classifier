@@ -25,12 +25,12 @@ Takes pos_train.csv and neg_train.csv, then collect info. needed. positive revie
 
 ## Implementation 2:
 ### file: run.py  (run_nb_classifier.py)
-Takes as input the path of a folder which contains multiple files, each containing a movie review, AND the path to a file that stores a Bayesian classifier for movie reviews, 
-Loads the Bayesian classifier stored in the file,
-Processes each of the movie reviews and convert them into a form which can be classified using the classifier, AND
-Uses the classifier loaded to classify each of the movie reviews as positive or negative, and output the results in a .csv file, with each line showing the name of the file containing the movie review, followed by a comma, followed by either "1" or "0" (meaning pos and neg, respectively).
-Your .csv file should contain results like this:
-aa101.txt,0
-aa102.txt,1
-aa103.txt,1
+1. Takes as input the path of a folder which contains multiple files, each containing a movie review, AND the path to a file that stores a Bayesian classifier for movie reviews.
+2. Loads the Bayesian classifier stored in the file,
+3. Processes each of the movie reviews and convert them into a form which can be classified using the classifier, AND
+4. Uses the classifier loaded to classify each of the movie reviews as positive or negative, and output the results in a .csv file, with each line showing the name of the file containing the movie review, followed by a comma, followed by either "1" or "0" (meaning pos and neg, respectively). <br>
+5.Your .csv file should contain results like this:<br>
+aa101.txt,0<br>
+aa102.txt,1<br>
+aa103.txt,1<br>
 
